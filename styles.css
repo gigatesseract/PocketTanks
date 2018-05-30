@@ -6,3 +6,26 @@
 
 
 }
+.pause{
+  height: 50px;
+  width: 100px;
+  position: absolute;
+  right: 55%;
+  top: 3%;
+  background-color: orange;
+  color: black;
+  border: 1px solid black;
+  font-size: 20px;
+}
+.reset{
+  height: 50px;
+  width: 100px;
+  position: absolute;
+  right: 45%;
+  top: 3%;
+  background-color: orange;
+  color: black;
+  border: 1px solid black;
+  font-size: 20px;
+
+}
