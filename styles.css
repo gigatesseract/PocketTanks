@@ -29,3 +29,32 @@
   font-size: 20px;
 
 }
+.reset:hover{
+  cursor: pointer;
+}
+.pause:hover{
+  cursor: pointer;
+  
+}
+.shoot{
+  position: relative;
+  bottom: 125px;
+  left: 50%;
+  width: 400px;
+  height: 80px;
+  font-size: 72px;
+
+  text-align: center;
+  line-height: 2px;
+  background-color: #008B8B;
+  border: 2px solid black;
+
+
+
+}
+.shoot:hover{
+  cursor: crosshair;
+}
+.slide{
+  position: relative;
+}
