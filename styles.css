@@ -34,12 +34,12 @@
 }
 .pause:hover{
   cursor: pointer;
-  
+
 }
 .shoot{
   position: relative;
   bottom: 125px;
-  left: 50%;
+  left: 900px;
   width: 400px;
   height: 80px;
   font-size: 72px;
@@ -57,4 +57,12 @@
 }
 .slide{
   position: relative;
+}
+.select1{
+  position: absolute;
+  left: 1425px;
+  top: 890px;
+  background-color: orange;
+  border: 2px solid black;
+
 }
