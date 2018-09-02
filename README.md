@@ -11,4 +11,4 @@ Implementation of the android game  "pocket tanks" using html5 Canvas API. Only 
 * Select power level from the slider, and choose your weapon form an arsenal of three types of weapons
 * Kill the opponent tank to win the game
 
-Screen shots [here](
+Screen shots [here](https://imgur.com/a/nQTyzSS)
