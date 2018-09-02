@@ -1032,8 +1032,8 @@ weapons.addEventListener('click', checkWeapons);
 
 
 function init() {
-  tank1.src = '/spritesheet.png';
-  sprite.src = '/spritesheet2.png';
+  tank1.src = 'spritesheet.png';
+  sprite.src = 'spritesheet2.png';
   tank1.onload = function() {
     sprite.onload = function(){
 
